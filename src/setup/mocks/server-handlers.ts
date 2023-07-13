@@ -1,5 +1,5 @@
-import posts from './handlers/posts';
+import products from './handlers/products';
 
-const handlers = [...posts];
+const handlers = [...products];
 
 export default handlers;

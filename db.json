@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Apple AirPods Pro 2nd generation",
+      "image": "https://s.ek.ua/jpg/2272446.jpg",
+      "price": 8199,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "Apple AirPods 3 with Wireless Charging Case",
+      "image": "https://s.ek.ua/jpg/2349078.jpg",
+      "price": 12499,
+      "available": false
+    },
+    {
+      "id": 3,
+      "name": "Apple AirPods Max",
+      "image": "https://s.ek.ua/jpg/1924984.jpg",
+      "price": 24799,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "Apple Pencil",
+      "image": "https://s.ek.ua/jpg/1693208.jpg",
+      "price": 4799,
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "Apple Power Adapter 20W",
+      "image": null,
+      "price": 899,
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "Apple iPhone 14 Pro",
+      "image": "https://s.ek.ua/jpg/2271978.jpg",
+      "price": 57299,
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "Apple iPhone 12",
+      "image": "https://s.ek.ua/jpg/1887056.jpg",
+      "price": 23799,
+      "available": true
+    },
+    {
+      "id": 8,
+      "name": "Apple iPhone 13 Pro",
+      "image": "https://s.ek.ua/jpg/2090047.jpg",
+      "price": 48999,
+      "available": false
+    },
+    {
+      "id": 9,
+      "name": "Apple iPhone 14",
+      "image": "https://s.ek.ua/jpg/2271962.jpg",
+      "price": 38499,
+      "available": true
+    },
+    {
+      "name": "yueryt",
+      "price": "89",
+      "image": "",
+      "available": true,
+      "id": 10
+    },
+    {
+      "name": "ssdf",
+      "price": "sdf",
+      "image": "",
+      "available": true,
+      "id": 11
+    }
+  ]
+}
