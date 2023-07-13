@@ -62,20 +62,6 @@
       "image": "https://s.ek.ua/jpg/2271962.jpg",
       "price": 38499,
       "available": true
-    },
-    {
-      "name": "yueryt",
-      "price": "89",
-      "image": "",
-      "available": true,
-      "id": 10
-    },
-    {
-      "name": "ssdf",
-      "price": "sdf",
-      "image": "",
-      "available": true,
-      "id": 11
     }
   ]
 }
